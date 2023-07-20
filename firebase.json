@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "dist",
+    "site": "muni-chenchen",
     "ignore": [
       "firebase.json",
       "**/.*",
